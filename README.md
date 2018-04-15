@@ -1,3 +1,3 @@
-#JavaScript_Course HomeWork 
-#Vorobev Ruslan
-#M110 group MSU
+#JavaScript_Course HomeWork \n
+#Vorobev Ruslan \n
+#M110 group MSU 
